@@ -1,2 +1,4 @@
 # Calculator
-basic js calculator, React app
+basic js calculator, js
+
+>> install node modules to run it
